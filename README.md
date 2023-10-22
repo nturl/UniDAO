@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Privy Auth `create-react-app` Starter
 
 This is a minimal template for integrating [Privy Auth](https://www.privy.io/) into a new [`create-react-app`](https://create-react-app.dev/) project. Check out the deployed app [here](https://create-react-app.privy.io/)!
@@ -34,3 +35,6 @@ In your project directory, run `npm run start`. You can now visit http://localho
 - `config-overrides.js` for how to [handle common issues with Webpack 5](https://docs.privy.io/guide/troubleshooting/webpack)
 
 **Check out [our docs](https://docs.privy.io/) for more guidance around using Privy in your app!**
+=======
+# UniDAO
+>>>>>>> origin/main
